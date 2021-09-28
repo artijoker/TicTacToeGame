@@ -196,6 +196,5 @@ namespace TicTacToeClient {
                 _server.Client.Shutdown(SocketShutdown.Both);
             _server.Client.Close();
         }
-
     }
 }
